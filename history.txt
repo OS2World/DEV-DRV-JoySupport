@@ -1,0 +1,26 @@
+Joystick Support Routines ver 1.1                      SpiceWare -  May 4, 1997
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+        ver 1.1 May 4, 1997
+
+Correctly uses joystick.clb if only 1 joystick is plugged in.
+
+Returns a "centered" reading for joysticks that are not plugged in.
+
+If a joystick that was plugged in is no longer, it's calibration info is
+discarded.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+        ver 1.0 February 16, 1997
+
+initial release of SpiceWare Joystick Support for OS/2
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+The current release can always be found at the SpiceWare homepages at:
+http://www.geocities.com/SiliconValley/Pines/2281/
+
+Darrell Spice Jr.
+spice@ibm.net
